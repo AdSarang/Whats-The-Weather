@@ -14,6 +14,7 @@
 		925864781EF9172600A8B779 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 925864761EF9172600A8B779 /* LaunchScreen.storyboard */; };
 		925864831EF9172600A8B779 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 925864821EF9172600A8B779 /* Whats_The_WeatherTests.swift */; };
 		9258648E1EF9172700A8B779 /* Whats_The_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9258648D1EF9172700A8B779 /* Whats_The_WeatherUITests.swift */; };
+		9258649C1EF918F200A8B779 /* simon-matzinger-272157.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9258649B1EF918F200A8B779 /* simon-matzinger-272157.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		925864891EF9172700A8B779 /* Whats The WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9258648D1EF9172700A8B779 /* Whats_The_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherUITests.swift; sourceTree = "<group>"; };
 		9258648F1EF9172700A8B779 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9258649B1EF918F200A8B779 /* simon-matzinger-272157.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "simon-matzinger-272157.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				9258646F1EF9172600A8B779 /* ViewController.swift */,
 				925864711EF9172600A8B779 /* Main.storyboard */,
 				925864741EF9172600A8B779 /* Assets.xcassets */,
+				9258649B1EF918F200A8B779 /* simon-matzinger-272157.jpg */,
 				925864761EF9172600A8B779 /* LaunchScreen.storyboard */,
 				925864791EF9172600A8B779 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 			files = (
 				925864781EF9172600A8B779 /* LaunchScreen.storyboard in Resources */,
 				925864751EF9172600A8B779 /* Assets.xcassets in Resources */,
+				9258649C1EF918F200A8B779 /* simon-matzinger-272157.jpg in Resources */,
 				925864731EF9172600A8B779 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
